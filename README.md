@@ -27,7 +27,6 @@ This portfolio serves as a professional overview of my experience and capabiliti
 
 If you're interested in collaborating or discussing opportunities, feel free to connect:
 
-- Email: bharathsgopal@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/bharath-gopal-b3480828/
 
 
