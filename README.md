@@ -2,6 +2,7 @@
 # Bharath Gopal – Technical Program Portfolio
 
 This portfolio showcases my work as an AI-driven Technical Program Manager and Engineer, focused on leading complex initiatives, improving operations, and delivering data-driven outcomes.
+View my [portfolio &rarr;]( https://atomicdatafarmer.github.io/BharathGopal-Portfolio/)
 
 ## Overview
 
@@ -31,7 +32,7 @@ If you're interested in collaborating or discussing opportunities, feel free to 
 
 
 
-### Contributions are warmly welcomed ❤️.
+### Contributions and colloborations are welcome ❤️.
 
 
 
